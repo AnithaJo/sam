@@ -1,0 +1,11 @@
+c:\users\h225456\documents\visual studio 2015\Projects\Producer\Producer\bin\Release\Producer.dll
+c:\users\h225456\documents\visual studio 2015\Projects\Producer\Producer\bin\Release\Producer.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\Producer\Producer\bin\Release\Newtonsoft.Json.dll
+c:\users\h225456\documents\visual studio 2015\Projects\Producer\Producer\bin\Release\RabbitMQ.Client.dll
+c:\users\h225456\documents\visual studio 2015\Projects\Producer\Producer\bin\Release\Newtonsoft.Json.xml
+c:\users\h225456\documents\visual studio 2015\Projects\Producer\Producer\bin\Release\RabbitMQ.Client.xml
+c:\users\h225456\documents\visual studio 2015\Projects\Producer\Producer\obj\Release\Producer.dll
+c:\users\h225456\documents\visual studio 2015\Projects\Producer\Producer\obj\Release\Producer.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Producer\Producer\bin\Release\Producer.dll.config
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Producer\Producer\bin\Release\Producer.XmlSerializers.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Producer\Producer\obj\Release\Producer.XmlSerializers.dll

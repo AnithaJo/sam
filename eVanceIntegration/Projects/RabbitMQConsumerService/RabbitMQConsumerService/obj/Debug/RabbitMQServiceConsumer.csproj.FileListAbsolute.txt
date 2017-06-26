@@ -1,0 +1,15 @@
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe.config
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\Producer.dll
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQ.Client.dll
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\Newtonsoft.Json.dll
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\Producer.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQ.Client.xml
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\Newtonsoft.Json.xml
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\obj\Debug\RabbitMQServiceConsumer.exe
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\obj\Debug\RabbitMQServiceConsumer.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\obj\Debug\RabbitMQServiceConsumer.ProjectInstaller.resources
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\obj\Debug\RabbitMQServiceConsumer.csproj.GenerateResource.Cache
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\Producer.XmlSerializers.dll
+C:\Users\h225456\documents\visual studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\obj\Debug\RabbitMQServiceConsumer.csprojResolveAssemblyReference.cache

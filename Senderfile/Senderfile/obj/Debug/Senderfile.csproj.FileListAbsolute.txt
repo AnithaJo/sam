@@ -1,0 +1,8 @@
+c:\users\h225456\documents\visual studio 2015\Projects\Senderfile\Senderfile\bin\Debug\Senderfile.exe.config
+c:\users\h225456\documents\visual studio 2015\Projects\Senderfile\Senderfile\bin\Debug\Senderfile.exe
+c:\users\h225456\documents\visual studio 2015\Projects\Senderfile\Senderfile\bin\Debug\Senderfile.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\Senderfile\Senderfile\bin\Debug\RabbitMQ.Client.dll
+c:\users\h225456\documents\visual studio 2015\Projects\Senderfile\Senderfile\bin\Debug\RabbitMQ.Client.xml
+c:\users\h225456\documents\visual studio 2015\Projects\Senderfile\Senderfile\obj\Debug\Senderfile.exe
+c:\users\h225456\documents\visual studio 2015\Projects\Senderfile\Senderfile\obj\Debug\Senderfile.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Senderfile\Senderfile\obj\Debug\Senderfile.csprojResolveAssemblyReference.cache

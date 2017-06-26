@@ -1,0 +1,13 @@
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Release\RabbitMQConsumerService.exe.config
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Release\RabbitMQConsumerService.exe
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Release\RabbitMQConsumerService.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Release\Consumer.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Release\RabbitMQ.Client.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Release\Newtonsoft.Json.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Release\Consumer.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Release\RabbitMQ.Client.xml
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Release\Newtonsoft.Json.xml
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\obj\Release\RabbitMQServiceConsumer.ProjectInstaller.resources
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\obj\Release\RabbitMQConsumerService.csproj.GenerateResource.Cache
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\obj\Release\RabbitMQConsumerService.exe
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\obj\Release\RabbitMQConsumerService.pdb

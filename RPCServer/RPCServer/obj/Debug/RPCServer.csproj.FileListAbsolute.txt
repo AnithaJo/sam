@@ -1,0 +1,7 @@
+c:\users\h225456\documents\visual studio 2015\Projects\RPCServer\RPCServer\bin\Debug\RPCServer.exe.config
+c:\users\h225456\documents\visual studio 2015\Projects\RPCServer\RPCServer\bin\Debug\RPCServer.exe
+c:\users\h225456\documents\visual studio 2015\Projects\RPCServer\RPCServer\bin\Debug\RPCServer.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\RPCServer\RPCServer\bin\Debug\RabbitMQ.Client.dll
+c:\users\h225456\documents\visual studio 2015\Projects\RPCServer\RPCServer\bin\Debug\RabbitMQ.Client.xml
+c:\users\h225456\documents\visual studio 2015\Projects\RPCServer\RPCServer\obj\Debug\RPCServer.exe
+c:\users\h225456\documents\visual studio 2015\Projects\RPCServer\RPCServer\obj\Debug\RPCServer.pdb

@@ -1,0 +1,7 @@
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Sender\Sender\bin\Release\Sender.exe.config
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Sender\Sender\bin\Release\Sender.exe
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Sender\Sender\bin\Release\Sender.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Sender\Sender\bin\Release\RabbitMQ.Client.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Sender\Sender\bin\Release\RabbitMQ.Client.xml
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Sender\Sender\obj\Release\Sender.exe
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Sender\Sender\obj\Release\Sender.pdb

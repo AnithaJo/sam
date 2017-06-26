@@ -1,0 +1,7 @@
+c:\users\h225456\documents\visual studio 2015\Projects\RPCClient\RPCClient\bin\Debug\RPCClient.exe.config
+c:\users\h225456\documents\visual studio 2015\Projects\RPCClient\RPCClient\bin\Debug\RPCClient.exe
+c:\users\h225456\documents\visual studio 2015\Projects\RPCClient\RPCClient\bin\Debug\RPCClient.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\RPCClient\RPCClient\bin\Debug\RabbitMQ.Client.dll
+c:\users\h225456\documents\visual studio 2015\Projects\RPCClient\RPCClient\bin\Debug\RabbitMQ.Client.xml
+c:\users\h225456\documents\visual studio 2015\Projects\RPCClient\RPCClient\obj\Debug\RPCClient.exe
+c:\users\h225456\documents\visual studio 2015\Projects\RPCClient\RPCClient\obj\Debug\RPCClient.pdb

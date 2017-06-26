@@ -1,0 +1,17 @@
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Consumer\Producer\bin\Debug\Consumer.dll.config
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Consumer\Producer\bin\Debug\Consumer.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Consumer\Producer\bin\Debug\Consumer.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Consumer\Producer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Consumer\Producer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Consumer\Producer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Consumer\Producer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Consumer\Producer\obj\Debug\Consumer.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Consumer\Producer\obj\Debug\Consumer.pdb
+C:\eVanceIntegration\Projects\Consumer\Consumer\bin\Debug\Consumer.dll.config
+C:\eVanceIntegration\Projects\Consumer\Consumer\bin\Debug\Consumer.dll
+C:\eVanceIntegration\Projects\Consumer\Consumer\bin\Debug\Consumer.pdb
+C:\eVanceIntegration\Projects\Consumer\Consumer\bin\Debug\Newtonsoft.Json.dll
+C:\eVanceIntegration\Projects\Consumer\Consumer\bin\Debug\Newtonsoft.Json.xml
+C:\eVanceIntegration\Projects\Consumer\Consumer\obj\Debug\Consumer.dll
+C:\eVanceIntegration\Projects\Consumer\Consumer\obj\Debug\Consumer.pdb
+C:\eVanceIntegration\Projects\Consumer\Consumer\obj\Debug\Consumer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,35 @@
+﻿Uninstalling assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe
+Removing EventLog source RabbitMQProducerService.
+Warning: The source RabbitMQProducerService is not registered on the local machine.
+Service RabbitMQProducerService is being removed from the system...
+Service RabbitMQProducerService was successfully removed from the system.
+Installing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe
+Installing service RabbitMQProducerService...
+Creating EventLog source RabbitMQProducerService in log Application...
+Rolling back assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe
+Restoring event log to previous state for source RabbitMQProducerService.
+Installing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe
+Installing service RabbitMQProducerService...
+Service RabbitMQProducerService has been successfully installed.
+Creating EventLog source RabbitMQProducerService in log Application...
+Committing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe

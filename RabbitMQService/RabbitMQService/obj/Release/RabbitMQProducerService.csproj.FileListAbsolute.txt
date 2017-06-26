@@ -1,0 +1,13 @@
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\Newtonsoft.Json.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\Producer.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQ.Client.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\Newtonsoft.Json.xml
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\Producer.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQ.Client.xml
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\obj\Release\RabbitMQProducerService.ProjectInstaller.resources
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\obj\Release\RabbitMQProducerService.csproj.GenerateResource.Cache
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe.config
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.exe
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Release\RabbitMQProducerService.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\obj\Release\RabbitMQProducerService.exe
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\obj\Release\RabbitMQProducerService.pdb

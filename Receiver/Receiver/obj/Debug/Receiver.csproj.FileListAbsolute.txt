@@ -1,0 +1,11 @@
+c:\users\h225456\documents\visual studio 2015\Projects\Receiver\Receiver\bin\Debug\Receiver.exe.config
+c:\users\h225456\documents\visual studio 2015\Projects\Receiver\Receiver\bin\Debug\Receiver.exe
+c:\users\h225456\documents\visual studio 2015\Projects\Receiver\Receiver\bin\Debug\Receiver.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\Receiver\Receiver\bin\Debug\RabbitMQ.Client.dll
+c:\users\h225456\documents\visual studio 2015\Projects\Receiver\Receiver\bin\Debug\RabbitMQ.Client.xml
+c:\users\h225456\documents\visual studio 2015\Projects\Receiver\Receiver\obj\Debug\Receiver.exe
+c:\users\h225456\documents\visual studio 2015\Projects\Receiver\Receiver\obj\Debug\Receiver.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Receiver\Receiver\bin\Debug\Json.NET.Web.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Receiver\Receiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Receiver\Receiver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Receiver\Receiver\obj\Debug\Receiver.csprojResolveAssemblyReference.cache

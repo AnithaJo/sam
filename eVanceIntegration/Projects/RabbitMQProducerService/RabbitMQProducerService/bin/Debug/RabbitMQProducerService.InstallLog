@@ -1,0 +1,45 @@
+﻿Installing assembly 'C:\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.InstallLog
+   assemblypath = C:\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe
+Installing service RabbitMQProducerService...
+Service RabbitMQProducerService has been successfully installed.
+Creating EventLog source RabbitMQProducerService in log Application...
+Committing assembly 'C:\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.InstallLog
+   assemblypath = C:\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe
+Uninstalling assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe
+Removing EventLog source RabbitMQProducerService.
+Warning: The source RabbitMQProducerService is not registered on the local machine.
+Service RabbitMQProducerService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe
+Installing service RabbitMQProducerService...
+Service RabbitMQProducerService has been successfully installed.
+Creating EventLog source RabbitMQProducerService in log Application...
+Committing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe
+Uninstalling assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\eVanceIntegration\Projects\RabbitMQProducerService\RabbitMQProducerService\bin\Debug\RabbitMQProducerService.exe
+Removing EventLog source RabbitMQProducerService.
+Service RabbitMQProducerService is being removed from the system...
+Service RabbitMQProducerService was successfully removed from the system.

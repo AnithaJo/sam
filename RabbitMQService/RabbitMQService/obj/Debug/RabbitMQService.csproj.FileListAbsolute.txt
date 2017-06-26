@@ -1,0 +1,15 @@
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\RabbitMQService.exe.config
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\obj\Debug\RabbitMQService.csprojResolveAssemblyReference.cache
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\obj\Debug\RabbitMQService.ProjectInstaller.resources
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\obj\Debug\RabbitMQService.csproj.GenerateResource.Cache
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\RabbitMQService.exe
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\RabbitMQService.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\Newtonsoft.Json.dll
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\Producer.dll
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\RabbitMQ.Client.dll
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\Newtonsoft.Json.xml
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\Producer.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\RabbitMQ.Client.xml
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\obj\Debug\RabbitMQService.exe
+c:\users\h225456\documents\visual studio 2015\Projects\RabbitMQService\RabbitMQService\obj\Debug\RabbitMQService.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQService\RabbitMQService\bin\Debug\Producer.XmlSerializers.dll

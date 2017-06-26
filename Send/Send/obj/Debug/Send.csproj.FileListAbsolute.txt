@@ -1,0 +1,11 @@
+c:\users\h225456\documents\visual studio 2015\Projects\Send\Send\bin\Debug\Send.exe.config
+c:\users\h225456\documents\visual studio 2015\Projects\Send\Send\bin\Debug\Send.exe
+c:\users\h225456\documents\visual studio 2015\Projects\Send\Send\bin\Debug\Send.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\Send\Send\bin\Debug\RabbitMQ.Client.dll
+c:\users\h225456\documents\visual studio 2015\Projects\Send\Send\bin\Debug\RabbitMQ.Client.xml
+c:\users\h225456\documents\visual studio 2015\Projects\Send\Send\obj\Debug\Send.exe
+c:\users\h225456\documents\visual studio 2015\Projects\Send\Send\obj\Debug\Send.pdb
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Send\Send\bin\Debug\Json.NET.Web.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Send\Send\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Send\Send\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h225456\Documents\Visual Studio 2015\Projects\Send\Send\obj\Debug\Send.csprojResolveAssemblyReference.cache

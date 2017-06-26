@@ -1,0 +1,6 @@
+c:\users\h225456\documents\visual studio 2015\Projects\WinRabbitMQService\WinRabbitMQService\bin\Debug\WinRabbitMQService.exe.config
+c:\users\h225456\documents\visual studio 2015\Projects\WinRabbitMQService\WinRabbitMQService\bin\Debug\WinRabbitMQService.exe
+c:\users\h225456\documents\visual studio 2015\Projects\WinRabbitMQService\WinRabbitMQService\bin\Debug\WinRabbitMQService.pdb
+c:\users\h225456\documents\visual studio 2015\Projects\WinRabbitMQService\WinRabbitMQService\obj\Debug\WinRabbitMQService.csprojResolveAssemblyReference.cache
+c:\users\h225456\documents\visual studio 2015\Projects\WinRabbitMQService\WinRabbitMQService\obj\Debug\WinRabbitMQService.exe
+c:\users\h225456\documents\visual studio 2015\Projects\WinRabbitMQService\WinRabbitMQService\obj\Debug\WinRabbitMQService.pdb

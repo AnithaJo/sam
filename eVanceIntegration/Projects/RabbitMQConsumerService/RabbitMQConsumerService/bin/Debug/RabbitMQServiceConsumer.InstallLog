@@ -1,0 +1,52 @@
+﻿Installing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe assembly.
+Committing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe assembly.
+Committing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe
+Installing service RabbitMQServiceConsumer...
+Service RabbitMQServiceConsumer has been successfully installed.
+Creating EventLog source RabbitMQServiceConsumer in log Application...
+Committing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQServiceConsumer\RabbitMQServiceConsumer\bin\Debug\RabbitMQServiceConsumer.exe
+Installing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQConsumerService\RabbitMQConsumerService\bin\Debug\RabbitMQServiceConsumer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQConsumerService\RabbitMQConsumerService\bin\Debug\RabbitMQServiceConsumer.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQConsumerService\RabbitMQConsumerService\bin\Debug\RabbitMQServiceConsumer.exe
+Installing service RabbitMQServiceConsumer...
+Service RabbitMQServiceConsumer has been successfully installed.
+Creating EventLog source RabbitMQServiceConsumer in log Application...
+Committing assembly 'C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQConsumerService\RabbitMQConsumerService\bin\Debug\RabbitMQServiceConsumer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQConsumerService\RabbitMQConsumerService\bin\Debug\RabbitMQServiceConsumer.InstallLog
+   assemblypath = C:\Users\h225456\Documents\Visual Studio 2015\Projects\RabbitMQConsumerService\RabbitMQConsumerService\bin\Debug\RabbitMQServiceConsumer.exe
